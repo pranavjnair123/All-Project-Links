@@ -1,6 +1,6 @@
 # All-Project-Links
 
-SEO Optimization – LSI keywords generation using SVD Classification
+SEO Optimization – LSI keywords generation using SVD Classification </br>
 https://github.com/pranavjnair123/SEO-Optimization-LSI-keywords-generation-using-SVD-Classification/blob/main/Web_Searching_and_SVD.pdf
 
 Search term generator for Genome sequencing
